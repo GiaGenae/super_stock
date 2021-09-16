@@ -61,7 +61,6 @@ class StockApi {
                 <th>Ticker</th>
                 <th>Sector</th>
                 <th>Price</th>
-                <th>Action</th>
             </tr>
             </thead>
             <tbody id="table_data">

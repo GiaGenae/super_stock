@@ -29,8 +29,7 @@ class PortfolioApi {
             <tr>
                 <th>Company</th>
                 <th>Ticker</th>
-                <th>sector</th>
-                <th>Portfolio</th>
+                <th>Sector</th>
                 <th>Price</th>
             </tr>
             </thead>

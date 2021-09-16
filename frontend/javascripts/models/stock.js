@@ -2,8 +2,8 @@ class Stock {
 
     static all = []
 
-    constructor({portfolio, company, ticker, sector, price, id}) {
-        this.portfolio = portfolio;
+    constructor({portfolio_id, company, ticker, sector, price, id}) {
+        this.portfolio = portfolio_id;
         this.company = company;
         this.ticker = ticker;
         this.sector = sector;
